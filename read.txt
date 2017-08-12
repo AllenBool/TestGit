@@ -1,2 +1,3 @@
 testgit! one
 testgit! two
+testgit! three

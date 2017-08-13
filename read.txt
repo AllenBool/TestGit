@@ -6,3 +6,4 @@ testgit! six
 testgit! seven
 testgit! nine
 testgit! ten
+testgit! master

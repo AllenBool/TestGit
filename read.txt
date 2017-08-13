@@ -3,3 +3,4 @@ testgit! two
 testgit! three
 testgit! four
 testgit! six
+testgit! seven
